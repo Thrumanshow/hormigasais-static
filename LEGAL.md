@@ -12,7 +12,7 @@ Este repositorio aloja exclusivamente contenido **HTML estático**, de carácter
 - No ejecutable
 
 No constituye una aplicación, servicio, API, ni software operativo.
-
+Este documento es referenciado explícitamente desde el puerto público.
 ---
 
 ## 2. Propósito
